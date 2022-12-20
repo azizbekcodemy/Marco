@@ -73,3 +73,57 @@
     max-width: 100%;
     height: auto;
 }
+/* // */
+.what {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #f9f9ff;
+    padding: 80px 0;
+
+}
+
+.what-cars {
+    width: 100%;
+
+}
+
+.what-card {
+    display: flex;
+    justify-content: center;
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 20px;
+    width: 90%;
+    margin-left: 2%;
+}
+
+.what-sal {
+    width: 98%;
+    display: flex;
+    justify-content: center;
+}
+
+.what-text {
+    margin-top: 15px;
+}
+
+.wtf1 {
+    width: 100%;
+}
+
+.wtf {
+    width: 79%;
+    display: flex;
+    justify-content: center;
+}
+
+.HAMMA {
+    display: flex;
+    justify-content: center;
+}
