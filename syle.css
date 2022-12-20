@@ -49,3 +49,27 @@
     position: relative;
     text-decoration: none;
 }
+/* /////// */
+.hom_about {
+    padding: 120px 0;
+}
+
+.hom_row {
+    align-items: center;
+}
+
+.hom_about_text h1 {
+    color: #222;
+    line-height: 1.2em !important;
+    font-weight: 600;
+}
+
+.hom_about_text p {
+    margin: 20px 0;
+    max-width: 490px;
+}
+
+.hom_about_img {
+    max-width: 100%;
+    height: auto;
+}
