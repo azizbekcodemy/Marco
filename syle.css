@@ -127,3 +127,91 @@
     display: flex;
     justify-content: center;
 }
+/* resel */
+.reservation-area {
+    background: url(./assent/img/reservation-bg.jpg) no-repeat center/cover;
+    width: 100%;
+}
+.dropdown .btn{
+    border: 1px solid #eeeeee;
+    padding-left: 12px;
+    padding-right: 0px;
+    border-radius: 0px;
+    height: 40px;
+    background: #fff !important;
+    width: 100%;
+    color: #777;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.row1 {
+    display: flex;
+}
+
+.section-gap {
+    padding: 120px 0;
+}
+
+.relative {
+    position: relative;
+}
+
+.reservation-area .reser-bg {
+    background: rgba(17, 22, 24, 0.75);
+}
+
+.reser_po {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.resert {
+    align-items: center !important;
+    justify-content: space-between !important;
+
+}
+
+.reservation-area .reser_name {
+    position: relative;
+    width: 37%;
+}
+
+.reser_text {
+    color: #fff !important;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.2em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+.restex {
+    padding-top: 20px;
+}
+
+.reservation-area .reser_input {
+    position: relative;
+    width: 37%;
+}
+
+.reservation-area .reser_input .reser_form {
+    background: #fff;
+    padding: 100px 40px;
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 0px;
+    margin-bottom: 10px;
+    border-color: #eeeeee;
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0.575rem 0.75rem;
+    color: #999999;
+    line-height: 1.5;
+    border: 1px solid #ced4da;
+}
