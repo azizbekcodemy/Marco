@@ -323,3 +323,46 @@
     margin-left: 10px;
     width: 95%;
 }
+/* carusel */
+.carusel {
+    background: url(./assent/img/review-bg.jpg) no-repeat center/cover;
+    padding: 120px 0;
+}
+
+.caru_div {
+    display: flex !important;
+}
+
+.car {
+    display: block;
+    align-items: center !important;
+    justify-content: space-between !important;
+    text-align: center !important;
+    padding-left: 27%;
+}
+
+
+.car2 p {
+    margin-top: 20px;
+    max-width: 555px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    font-style: italic;
+}
+.car2 .single-review h4 {
+    margin-top: 20px;
+}
+
+.single-review .star .checked .bi {
+    background-color: #ffc000 !important;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
