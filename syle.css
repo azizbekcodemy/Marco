@@ -1,0 +1,51 @@
+.banner {
+    background: url(../Marco1/assent/img/hero-bg.jpg) center center/cover;
+    background-size: cover;
+}
+
+.banner-hom {
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+
+.bannercon {
+    margin-top: 100px;
+}
+
+.bannercon h6 {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.bannertext {
+    color: #fff !important;
+}
+
+.bannercon h1 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.bannercon p {
+    max-width: 515px;
+    margin-bottom: 30px;
+}
+
+.banner_btn {
+    background: #f42f2c;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+}
